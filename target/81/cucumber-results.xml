@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="16" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="16" time="44.552991">
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register" time="13.848465">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd.................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 2" time="2.097352">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd.................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 3" time="1.823428">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd.................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 4" time="1.968267">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd.................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 5" time="1.975712">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd1................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 6" time="1.939147">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd1................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 7" time="1.80401">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd1................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 8" time="2.120857">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd1................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 9" time="1.901792">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd2................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 10" time="1.974119">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd2................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 11" time="2.309813">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd2................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 12" time="2.12162">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd2................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 13" time="1.986782">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd3................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 14" time="2.528188">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd3................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 15" time="2.245516">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd3................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+<testcase classname="Validate NTL Taxi homepage" name="Verify whether user is able to register 16" time="1.907923">
+<failure message="java.lang.ArithmeticException: / by zero&#13;&#10;&#9;at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)&#13;&#10;&#9;at ✽.But Don't click book button(Homepage.feature:11)&#13;&#10;"><![CDATA[Given Open Browser as FireFox...............................................passed
+Then Enter URL as http://www.ntltaxi.com/...................................passed
+Then Enter Username as abcd3................................................passed
+And Enter Mobilenum as 1234567890...........................................passed
+Then Enter Pickup Address as Adyar..........................................passed
+And Enter Drop Address as Tambaram..........................................passed
+When select vechicle type as Sedan..........................................passed
+But Don't click book button.................................................failed
+
+StackTrace:
+java.lang.ArithmeticException: / by zero
+	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+	at ✽.But Don't click book button(Homepage.feature:11)
+]]></failure>
+</testcase>
+</testsuite>

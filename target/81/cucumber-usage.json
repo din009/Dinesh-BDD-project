@@ -1,0 +1,575 @@
+[
+  {
+    "source": "^Enter URL as (.*)$",
+    "steps": [
+      {
+        "name": "Enter URL as http://www.ntltaxi.com/",
+        "aggregatedDurations": {
+          "average": 0.775340658,
+          "median": 0.669399006
+        },
+        "durations": [
+          {
+            "duration": 2.1040154,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.621908441,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.564247498,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.559218243,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.667170099,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.680598141,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.671627913,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.889952039,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.6034495,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.58747132,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.675116494,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.685722637,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.633132412,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 1.159733771,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.720076012,
+            "location": "Homepage.feature:5"
+          },
+          {
+            "duration": 0.582010611,
+            "location": "Homepage.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Username as (.*)$",
+    "steps": [
+      {
+        "name": "Enter Username as abcd",
+        "aggregatedDurations": {
+          "average": 0.117460375,
+          "median": 0.122465513
+        },
+        "durations": [
+          {
+            "duration": 0.13380053,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.152591169,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.111130497,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.072319307,
+            "location": "Homepage.feature:6"
+          }
+        ]
+      },
+      {
+        "name": "Enter Username as abcd1",
+        "aggregatedDurations": {
+          "average": 0.086479611,
+          "median": 0.086633658
+        },
+        "durations": [
+          {
+            "duration": 0.08799001,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.085277307,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.073739289,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.09891184,
+            "location": "Homepage.feature:6"
+          }
+        ]
+      },
+      {
+        "name": "Enter Username as abcd2",
+        "aggregatedDurations": {
+          "average": 0.127739745,
+          "median": 0.094448688
+        },
+        "durations": [
+          {
+            "duration": 0.090871435,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.098025942,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.231431965,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.09062964,
+            "location": "Homepage.feature:6"
+          }
+        ]
+      },
+      {
+        "name": "Enter Username as abcd3",
+        "aggregatedDurations": {
+          "average": 0.082684475,
+          "median": 0.082122476
+        },
+        "durations": [
+          {
+            "duration": 0.070021638,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.088439937,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.075805015,
+            "location": "Homepage.feature:6"
+          },
+          {
+            "duration": 0.096471311,
+            "location": "Homepage.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Mobilenum as (.*)$",
+    "steps": [
+      {
+        "name": "Enter Mobilenum as 1234567890",
+        "aggregatedDurations": {
+          "average": 0.134226724,
+          "median": 0.084629304
+        },
+        "durations": [
+          {
+            "duration": 0.770741317,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.086513788,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.077515644,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.070941198,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.075819384,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.088992905,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.074216311,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.102655764,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.081363839,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.068354114,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.207143669,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.09517859,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.082744821,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.094461825,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.095373175,
+            "location": "Homepage.feature:7"
+          },
+          {
+            "duration": 0.075611251,
+            "location": "Homepage.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Pickup Address as (.*)$",
+    "steps": [
+      {
+        "name": "Enter Pickup Address as Adyar",
+        "aggregatedDurations": {
+          "average": 0.080694771,
+          "median": 0.074872113
+        },
+        "durations": [
+          {
+            "duration": 0.098664708,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.07506362,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.062305543,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.147656332,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.059634713,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.07572127,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.066985859,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.080657748,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.074546778,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.071244982,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.091669893,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.074680607,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.071137426,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.083775221,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.08864027,
+            "location": "Homepage.feature:8"
+          },
+          {
+            "duration": 0.068731381,
+            "location": "Homepage.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^select vechicle type as (.*)$",
+    "steps": [
+      {
+        "name": "select vechicle type as Sedan",
+        "aggregatedDurations": {
+          "average": 0.342139935,
+          "median": 0.320282214
+        },
+        "durations": [
+          {
+            "duration": 0.407854933,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.304158506,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.302802975,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.378865386,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.294282676,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.344138029,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.275250652,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.298195732,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.297754015,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.284519327,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.336405923,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.444415252,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.303745115,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.418836288,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.443929199,
+            "location": "Homepage.feature:10"
+          },
+          {
+            "duration": 0.339084963,
+            "location": "Homepage.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open Browser as (.*)$",
+    "steps": [
+      {
+        "name": "Open Browser as FireFox",
+        "aggregatedDurations": {
+          "average": 0.592258909,
+          "median": 0.000106735
+        },
+        "durations": [
+          {
+            "duration": 9.473242234,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000117818,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000100167,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000094008,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000070609,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000091956,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000082514,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000122745,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000086209,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000113303,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000152712,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000193354,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000086209,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000149429,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.000092367,
+            "location": "Homepage.feature:4"
+          },
+          {
+            "duration": 0.00134691,
+            "location": "Homepage.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Drop Address as (.*)$",
+    "steps": [
+      {
+        "name": "Enter Drop Address as Tambaram",
+        "aggregatedDurations": {
+          "average": 0.081595089,
+          "median": 0.075156807
+        },
+        "durations": [
+          {
+            "duration": 0.112092341,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.075449918,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.106198944,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.104035104,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.06945266,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.068933766,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.081273114,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.086444409,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.088237141,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.071976936,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.074863697,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.064046139,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.070451451,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.070076648,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.088795035,
+            "location": "Homepage.feature:9"
+          },
+          {
+            "duration": 0.073194122,
+            "location": "Homepage.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]

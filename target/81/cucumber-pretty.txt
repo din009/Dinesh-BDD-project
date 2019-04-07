@@ -1,0 +1,254 @@
+@Registration
+Feature: Validate NTL Taxi homepage
+
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:3
+    Given Open Browser as <BROWSER>
+    Then Enter URL as <URL>
+    Then Enter Username as <USERNAME>
+    And Enter Mobilenum as <MOBILENUM>
+    Then Enter Pickup Address as <PICADD>
+    And Enter Drop Address as <DROPADD>
+    When select vechicle type as <VECHICLETYPE>
+    But Don't click book button
+
+    Examples: 
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:14
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd                             # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:14
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd                             # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:14
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd                             # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:14
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd                             # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:15
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd1                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:15
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd1                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:15
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd1                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:15
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd1                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:16
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd2                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:16
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd2                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:16
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd2                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:16
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd2                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:17
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd3                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:17
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd3                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:17
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd3                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
+
+  @Registration
+  Scenario Outline: Verify whether user is able to register # Homepage.feature:17
+    Given Open Browser as FireFox                           # HomePageTest.OpenBrowser(String)
+    Then Enter URL as http://www.ntltaxi.com/               # HomePageTest.EnterURL(String)
+    Then Enter Username as abcd3                            # HomePageTest.EnterUsername(String)
+    And Enter Mobilenum as 1234567890                       # HomePageTest.EnterMobilenum(String)
+    Then Enter Pickup Address as Adyar                      # HomePageTest.EnterPickupAddress(String)
+    And Enter Drop Address as Tambaram                      # HomePageTest.EnterDropAddress(String)
+    When select vechicle type as Sedan                      # HomePageTest.selectVechicletype(String)
+    But Don't click book button                             # HomePageTest.Dontclickbookbutton()
+      java.lang.ArithmeticException: / by zero
+      	at stepDefinition.HomePageTest.Dontclickbookbutton(HomePageTest.java:74)
+      	at ✽.But Don't click book button(Homepage.feature:11)
+
